@@ -5,7 +5,7 @@ memory_category: Instances
 summary: |
   `Class.UserInputService` is a service used to detect the type of input
   available on a user's device via the use of a `Class.LocalScript`. The service
-  is also used to detect input events.
+  is also used to detect input remote events.
 description: |
   `Class.UserInputService` is a service used to detect and capture the different
   types of input available on a user's device.
